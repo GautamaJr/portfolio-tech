@@ -1,4 +1,4 @@
-<h1 align="center">Portfólio profissional src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"</h1>
+<h1 align="center">Portfólio profissional :briefcase:</h1>
 
 🚀 Projeto: Portfólio
 
