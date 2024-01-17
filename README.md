@@ -1,4 +1,4 @@
-<h1 align="center">Portfólio profissional :briefcase:</h1>
+<h1 align="center">Portfólio profissional :man_technologist:</h1>
 
 🚀 Projeto: Portfólio
 
